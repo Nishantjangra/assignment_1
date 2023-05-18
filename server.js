@@ -4,7 +4,7 @@ var app = express();
 
 // setup a 'route' to listen on the default url path
 app.get("/", (req, res) => {
-    res.write("Nishant Jangra - 150611200");
+    res.write("Nishant Jangra - 150611200 /n");
     res.write("My favourite movie is Krish");
     res.end();
 });
