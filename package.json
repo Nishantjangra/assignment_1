@@ -1,0 +1,22 @@
+{
+  "name": "assignment_1",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Nishant Jangra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
