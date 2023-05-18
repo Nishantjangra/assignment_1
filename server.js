@@ -1,3 +1,13 @@
+/*********************************************************************************
+* WEB322 – Assignment 1
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+* No part of this assignment has been copied manually or electronically from any other source
+* (including web sites) or distributed to other students. *
+* Name: Nishant Jangra Student ID: 150611200 Date: 18th May 2023 *
+* Online (Cyclic) URL: https://eel-lingerie.cyclic.app/
+* ********************************************************************************/
+
+
 var HTTP_PORT = process.env.PORT || 8080;
 var express = require("express");
 var app = express();
